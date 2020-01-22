@@ -1,0 +1,9 @@
+{
+    "path" : "~/Desktop/sentimentanalysis/Sentiment",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
